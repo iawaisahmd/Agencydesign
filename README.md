@@ -10,7 +10,7 @@ A modern, high-performance landing page  for a premium web design and developmen
 
 ![Agency Landing Page Preview](./public/preview.png)
 
-> ⚠️ *If you don't have a preview image, replace the path above with a link to a screenshot or remove the line.*
+> ⚠️ *If you don't have  a preview image, replace the path above with a link to a screenshot or remove the line.*
 
 ---
 
