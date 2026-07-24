@@ -14,7 +14,7 @@ A modern, high-performance landing page for a premium web design and development
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 📱 **Fully Responsive** — Looks great on all devices, from mobile to desktop.
 - 🎞️ **Smooth Animations** — Powered by [Framer Motion](https://www.framer.com/motion/) for elegant scroll and entrance effects.
