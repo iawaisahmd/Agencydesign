@@ -39,10 +39,94 @@ A modern, high-performance landing page for a premium web design and development
 | clsx / twMerge   | Conditional class management   |
 
 ---
-
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/iawaisahmd/Agencydesign.git
    cd Agencydesign
+Install dependencies
+
+bash
+npm install
+Start the development server
+
+bash
+npm run dev
+The app will be available at http://localhost:5173 (or the port shown in your terminal).
+
+🏗️ Build for Production
+bash
+npm run build
+npm run preview
+The production-ready files will be output to the dist folder. You can deploy this folder to any static hosting service (Vercel, Netlify, GitHub Pages, AWS S3, etc.).
+
+📁 Project Structure
+text
+Agencydesign/
+├── src/
+│   ├── App.tsx          # Main application component with all sections
+│   ├── main.tsx         # Entry point
+│   ├── index.css        # Global styles (Tailwind directives)
+│   └── utils/
+│       └── cn.ts        # Utility for merging Tailwind classes
+├── public/              # Static assets (favicon, images, etc.)
+├── index.html           # HTML template
+├── package.json         # Dependencies and scripts
+├── tsconfig.json        # TypeScript configuration
+├── vite.config.ts       # Vite configuration
+└── .gitignore
+🎯 Available Scripts
+Command	Description
+npm run dev	Start development server
+npm run build	Build for production
+npm run preview	Preview production build locally
+npm run lint	Run ESLint (if configured)
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page if you'd like to help.
+
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License. See the LICENSE file for more information.
+
+🌐 Live Demo
+➡️ https://iawaisahmd.github.io/Agencydesign (if deployed)
+
+🙏 Acknowledgements
+React
+
+Vite
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide Icons
+
+Made with ❤️ by Muhammad Awais
+
+text
+
+---
+
+### 📝 How to use this file:
+
+1. Copy the entire block above.
+2. In your project root, create a file named `README.md`.
+3. Paste the content.
+4. (Optional) Add a screenshot of your site to `public/preview.png` and update the image path, or delete that line if you don't have one.
+5. Stage and commit the file:
+   ```bash
+   git add README.md
+   git commit -m "Add README.md"
+   git push
