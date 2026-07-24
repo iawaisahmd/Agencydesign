@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A modern, high-performance landing page for a premium web design and development agency. Built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, it delivers a smooth, animated user experience with a clean, professional aesthetic.
+A modern, high-performance landing page for a premium web design and development agency. Built with **React**, **TypeScript**, **Vite**,  and **Tailwind CSS**, it delivers a smooth, animated user experience with a clean, professional aesthetic.
 
 ![Agency Landing Page Preview](./public/preview.png)
 
